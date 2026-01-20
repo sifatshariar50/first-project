@@ -63,9 +63,8 @@ while True:
         tracker.total_expenses()
 
     elif choice == "5":
-        print("Goodbye!")
+        print("Goodbye,my dear friend!")
         break
 
     else:
-        print("Invalid choice, please try again.")
-
+        print("Invalid choice, please try again,")
